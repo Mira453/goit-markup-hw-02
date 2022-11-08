@@ -168,9 +168,6 @@ ul {
     display: flex;
     gap: 30px;
 }
-.feature-item {
-    
-}
 .feature-list .feature-title {
     margin-bottom: 10px;
 }
